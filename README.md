@@ -4,4 +4,4 @@ A comprehensive web-based application designed to streamline college placement a
 
 ## Author
 
-Developed by Rojin Roy Jo
+Developed by @rojinroyjo24
